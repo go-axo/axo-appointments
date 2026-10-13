@@ -1,10 +1,10 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "go-axo/axo-appointments",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "Appointment booking and reminder system for service businesses.",
+    "keywords": ["appointments", "booking", "laravel", "filament"],
+    "license": "Apache-2.0",
     "require": {
         "php": "^8.3",
         "filament/filament": "^5.10",
